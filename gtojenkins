@@ -12,7 +12,7 @@ pipeline {
 {
 	steps
 {
-echo 'Hi i am new to jenkins'
+echo 'Hi Siubbi*** to jenkins'
 }
 }
 stage ('deployment jenkins')
