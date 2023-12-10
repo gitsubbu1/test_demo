@@ -1,4 +1,20 @@
 Hello subbu
 
 new project
-running online 
+running online
+
+step by step 
+
+running 
+
+pipeline {
+
+agent()
+stage {
+stage (clone){
+step {
+
+"sh mvn install"
+}
+}
+
